@@ -90,3 +90,15 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: chitchat/ask_lengo
+  examples: |
+    - lengo
+    - tell me more about lengo plartform
+    - tell me more about lengo
+    - lengo plartform 
+
+- intent: chitchat/ask_demo
+  examples: |
+    - show me how it works
+    - lengo demo
